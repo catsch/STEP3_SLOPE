@@ -1,0 +1,7 @@
+#!/bin/sh
+
+for mission in `cat coriolis_CHLA.list`
+do
+	R $mission --vanilla < median_slope.R
+
+done
