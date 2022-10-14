@@ -25,7 +25,7 @@ In order to perform DM for CHLA you should
 
       -It reads the working directory to build the list of the Bfiles : "liste_all_B"
 
-  -SLOPE_ESTIMATION.R is preparing the entries for Xing2011.R (https://doi.org/10.17882/86384)
+  -SLOPE_ESTIMATION.R is preparing the entries for Xing2011.R 
 
   -Xing2011.R is estimating the F490/SLOPE  https://doi.org/10.17882/86384)
 
